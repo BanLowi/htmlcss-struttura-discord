@@ -69,3 +69,7 @@ main {
     background-color: aqua;
 }
 
+.debug *{
+    border: 1px dashed black;
+}
+
