@@ -34,7 +34,25 @@ main {
     padding: 3rem;
 }
 
+.b-container {
+    background-color: aqua;
+    height: 400px;
+    width: 50%;
+    margin: auto;
+    padding: 3rem;
+}
+
 .c-align {
     text-align: center;
 }
 
+.bg-section {
+    padding: 3rem;
+    background-color: aquamarine;
+}
+
+.image {
+    height: 100%;
+    width: 90%;
+    background-color: black;
+}
