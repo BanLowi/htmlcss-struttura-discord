@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* utilities */
+
+.d-flex {
+    display: flex;
+}
+
+/* header */
+
+header {
+    background-color: blueviolet;
+}
+
+.h-align {
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+/* body */
+
+main {
+    align-items: center;
+}
+
+.s-container {
+    background-color: aqua;
+    height: 200px;
+    width: 50%;
+    margin: auto;
+    padding: 3rem;
+}
+
+.c-align {
+    text-align: center;
+}
+
