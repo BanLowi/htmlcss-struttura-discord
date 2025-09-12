@@ -39,14 +39,14 @@ main {
     height: 400px;
     width: 50%;
     margin: auto;
-    padding: 3rem;
+    padding: 2rem;
 }
 
 .c-align {
     text-align: center;
 }
 
-.bg-section {
+.main-section {
     padding: 3rem;
     background-color: aquamarine;
 }
@@ -56,3 +56,16 @@ main {
     width: 90%;
     background-color: black;
 }
+
+.b-image {
+    height: 80%;
+    width: 100%;
+    background-color: black;
+}
+
+/* footer */
+
+.footer-section {
+    background-color: blue;
+}
+
