@@ -9,6 +9,10 @@
     display: flex;
 }
 
+.debug *{
+    border: 1px dashed black;
+}
+
 /* header */
 
 header {
@@ -69,7 +73,10 @@ main {
     background-color: aqua;
 }
 
-.debug *{
-    border: 1px dashed black;
+.b-section {
+    padding-right: 1rem;
+    width: 100%;
 }
+
+
 
